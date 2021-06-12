@@ -40,7 +40,7 @@
     "extend": "^3.0.2",
     "google-auth-library": "^7.0.2",
     "retry-request": "^4.1.1",
-    "teeny-request": "^7.0.0"
+    "teeny-request": "Shift46/teeny-request"
   },
   "devDependencies": {
     "@compodoc/compodoc": "^1.1.11",
